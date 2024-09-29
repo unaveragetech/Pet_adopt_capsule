@@ -1,9 +1,15 @@
-# Pet_adopt_capsule
-
 pet_adoption_tracker/
 │
-├── app.py
-├── models.py
-├── routes.py
-├── config.py
-└── migrations/
+├── backend/
+│   ├── app.py
+│   ├── config.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── requirements.txt
+│   └── migrations/
+│
+├── frontend/
+│   ├── index.html
+│   └── scripts.js
+│
+└── README.md
