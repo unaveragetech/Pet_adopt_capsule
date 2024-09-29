@@ -1,3 +1,8 @@
+from install_requirements import install_requirements
+
+# Example: Omitting a specific package and disabling installation if needed
+install_requirements(omit_libraries=['package_to_omit'], disable_installation=False)
+
 from flask import Flask, request, jsonify, session, redirect, url_for
 import bcrypt
 import pyotp
