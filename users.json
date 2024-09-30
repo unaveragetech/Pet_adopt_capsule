@@ -1,1 +1,1 @@
-{"tester": {"password": "$2b$12$UyAEKuBDvUTLkITXiNGWJu09BERRFbbufbsRmF.YmQ052ms9nFGOO", "totp_secret": "XQVNORRNZHVV5IQHQNQPTZ4BNOFX3HYA"}}
+{"tester": {"password": "$2b$12$2dR8cvFO0lbBsdJgv9Wvu.1OdjKX4CeglCrGIBoaNO0fPMdZR7Raq", "totp_secret": "W4IIKZTNKQF74ECLYHDTNQVAG4ESBOY5", "email": "Cyberslueth@consultant.com", "role": "user", "first_login": true, "failed_attempts": 0, "locked": false}}
